@@ -1,0 +1,1 @@
+python3 -m sglang_router.launch_router --host 192.168.0.60 --port 6699 --worker-urls http://192.168.0.60:8001 http://192.168.0.60:8002 --policy round_robin --health-failure-threshold 2 --health-success-threshold 2 --health-check-timeout-secs 30 --health-check-interval-secs 15

@@ -1,0 +1,484 @@
+performance
+vm.swappiness = 0
+kernel.numa_balancing = 0
+kernel.sched_migration_cost_ns = 50000
+[Gloo] Rank 16 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 23 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 21 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 24 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 22 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 26 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 27 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 28 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 30 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 31 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 18 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 17 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 19 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 25 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 20 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 29 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 16 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 18 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 21 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 17 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 24 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 22 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 28 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 25 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 27 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 26 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 31 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 30 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 19 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 20 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 23 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 29 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 1 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 2 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 3 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 5 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 4 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 6 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 7 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 0 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 1 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 2 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 3 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 4 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 6 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 5 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 7 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+................................2025-12-12 05:34:36.419286 error 160401 pid[141643] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.419310 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.419314 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.419317 error 160401 pid[141643] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.419322 error 160401 pid[141643] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.419325 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.419327 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.419330 error 160401 pid[141643] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.419727 error 160402 pid[141644] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.419741 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.419744 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.419747 error 160402 pid[141644] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.419751 error 160402 pid[141644] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.419753 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.419756 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.419758 error 160402 pid[141644] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.423998 error 160403 pid[141639] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.424029 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.424036 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.424040 error 160403 pid[141639] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.424045 error 160403 pid[141639] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.424048 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.424050 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.424053 error 160403 pid[141639] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.429012 error 160405 pid[141637] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.429038 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.429042 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.429046 error 160405 pid[141637] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.429051 error 160405 pid[141637] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.429053 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.429056 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.429059 error 160405 pid[141637] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.439776 error 160404 pid[141640] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.439798 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.439803 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.439806 error 160404 pid[141640] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.439810 error 160404 pid[141640] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.439813 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.439815 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.439818 error 160404 pid[141640] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.441326 error 160406 pid[142279] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.441353 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.441358 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.441361 error 160406 pid[142279] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.441366 error 160406 pid[142279] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.441369 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.441371 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.441374 error 160406 pid[142279] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.446015 error 160407 pid[142281] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.446041 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.446046 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.446050 error 160407 pid[142281] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.446054 error 160407 pid[142281] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.446056 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.446059 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.446062 error 160407 pid[142281] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.447629 error 160409 pid[141645] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.447662 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.447667 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.447682 error 160409 pid[141645] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.447687 error 160409 pid[141645] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.447689 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.447692 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.447694 error 160409 pid[141645] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.448945 error 160411 pid[142280] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.448965 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.448969 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.448972 error 160411 pid[142280] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.448976 error 160411 pid[142280] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.448978 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.448981 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.448983 error 160411 pid[142280] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.454015 error 160414 pid[141638] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.454036 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.454040 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.454043 error 160414 pid[141638] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.454047 error 160414 pid[141638] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.454050 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.454052 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.454055 error 160414 pid[141638] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.458587 error 160416 pid[141642] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.458610 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.458615 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.458618 error 160416 pid[141642] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.458623 error 160416 pid[141642] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.458625 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.458628 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.458631 error 160416 pid[141642] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.461607 error 160410 pid[141646] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.461625 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.461629 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.461632 error 160410 pid[141646] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.461636 error 160410 pid[141646] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.461638 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.461640 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.461643 error 160410 pid[141646] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.463156 error 160408 pid[142278] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.463176 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.463180 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.463183 error 160408 pid[142278] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.463187 error 160408 pid[142278] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.463189 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.463191 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.463194 error 160408 pid[142278] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.479673 error 160415 pid[141641] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.479693 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.479696 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.479699 error 160415 pid[141641] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.479702 error 160415 pid[141641] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.479705 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.479707 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.479709 error 160415 pid[141641] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.482088 error 160413 pid[142282] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.482113 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.482116 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.482120 error 160413 pid[142282] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.482124 error 160413 pid[142282] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.482127 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.482129 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.482132 error 160413 pid[142282] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.482832 error 160412 pid[142175] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.482852 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.482857 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.482860 error 160412 pid[142175] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.482864 error 160412 pid[142175] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.482866 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.482868 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.482871 error 160412 pid[142175] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.419406 error 160401 pid[141643] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.419426 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.419431 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.419434 error 160401 pid[141643] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.419438 error 160401 pid[141643] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.419440 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.419443 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.419446 error 160401 pid[141643] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.419829 error 160402 pid[141644] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.419842 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.419845 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.419848 error 160402 pid[141644] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.419852 error 160402 pid[141644] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.419855 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.419858 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.419860 error 160402 pid[141644] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.424135 error 160403 pid[141639] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.424160 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.424166 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.424170 error 160403 pid[141639] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.424175 error 160403 pid[141639] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.424178 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.424180 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.424183 error 160403 pid[141639] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.429130 error 160405 pid[141637] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.429152 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.429156 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.429159 error 160405 pid[141637] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.429163 error 160405 pid[141637] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.429165 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.429168 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.429171 error 160405 pid[141637] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.439891 error 160404 pid[141640] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.439912 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.439916 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.439919 error 160404 pid[141640] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.439923 error 160404 pid[141640] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.439926 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.439928 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.439931 error 160404 pid[141640] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.441451 error 160406 pid[142279] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.441475 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.441479 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.441483 error 160406 pid[142279] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.441487 error 160406 pid[142279] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.441490 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.441492 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.441495 error 160406 pid[142279] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.446139 error 160407 pid[142281] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.446163 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.446168 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.446172 error 160407 pid[142281] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.446176 error 160407 pid[142281] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.446178 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.446181 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.446184 error 160407 pid[142281] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.447783 error 160409 pid[141645] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.447806 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.447811 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.447814 error 160409 pid[141645] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.447818 error 160409 pid[141645] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.447821 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.447823 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.447826 error 160409 pid[141645] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.449053 error 160411 pid[142280] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.449070 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.449073 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.449076 error 160411 pid[142280] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.449080 error 160411 pid[142280] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.449082 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.449084 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.449087 error 160411 pid[142280] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.454147 error 160414 pid[141638] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.454172 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.454176 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.454180 error 160414 pid[141638] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.454184 error 160414 pid[141638] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.454186 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.454189 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.454191 error 160414 pid[141638] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.458711 error 160416 pid[141642] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.458745 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.458750 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.458754 error 160416 pid[141642] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.458758 error 160416 pid[141642] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.458760 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.458763 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.458766 error 160416 pid[141642] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.461768 error 160410 pid[141646] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.461797 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.461801 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.461804 error 160410 pid[141646] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.461808 error 160410 pid[141646] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.461811 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.461814 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.461817 error 160410 pid[141646] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.463419 error 160408 pid[142278] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.463463 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.463468 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.463475 error 160408 pid[142278] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.463480 error 160408 pid[142278] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.463488 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.463491 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.463493 error 160408 pid[142278] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.479782 error 160415 pid[141641] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.479800 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.479804 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.479806 error 160415 pid[141641] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.479810 error 160415 pid[141641] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.479812 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.479815 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.479817 error 160415 pid[141641] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.482208 error 160413 pid[142282] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.482230 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.482235 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.482238 error 160413 pid[142282] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.482243 error 160413 pid[142282] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.482245 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.482248 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.482250 error 160413 pid[142282] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.482943 error 160412 pid[142175] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.482963 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.482967 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.482970 error 160412 pid[142175] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.482974 error 160412 pid[142175] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.482977 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.482979 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.482982 error 160412 pid[142175] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.419522 error 160401 pid[141643] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.419542 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.419547 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.419550 error 160401 pid[141643] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.419554 error 160401 pid[141643] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.419556 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.419559 error 160401 pid[141643] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.419561 error 160401 pid[141643] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.419930 error 160402 pid[141644] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.419944 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.419947 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.419950 error 160402 pid[141644] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.419954 error 160402 pid[141644] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.419956 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.419958 error 160402 pid[141644] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.419961 error 160402 pid[141644] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.424243 error 160403 pid[141639] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.424271 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.424277 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.424281 error 160403 pid[141639] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.424286 error 160403 pid[141639] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.424289 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.424291 error 160403 pid[141639] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.424294 error 160403 pid[141639] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.429244 error 160405 pid[141637] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.429267 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.429271 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.429275 error 160405 pid[141637] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.429278 error 160405 pid[141637] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.429281 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.429283 error 160405 pid[141637] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.429286 error 160405 pid[141637] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.440002 error 160404 pid[141640] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.440022 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.440027 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.440031 error 160404 pid[141640] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.440035 error 160404 pid[141640] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.440037 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.440040 error 160404 pid[141640] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.440043 error 160404 pid[141640] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.441573 error 160406 pid[142279] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.441598 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.441603 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.441607 error 160406 pid[142279] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.441611 error 160406 pid[142279] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.441614 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.441616 error 160406 pid[142279] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.441619 error 160406 pid[142279] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.446260 error 160407 pid[142281] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.446285 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.446289 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.446294 error 160407 pid[142281] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.446298 error 160407 pid[142281] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.446300 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.446303 error 160407 pid[142281] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.446305 error 160407 pid[142281] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.447903 error 160409 pid[141645] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.447923 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.447928 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.447932 error 160409 pid[141645] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.447936 error 160409 pid[141645] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.447938 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.447941 error 160409 pid[141645] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.447943 error 160409 pid[141645] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.449159 error 160411 pid[142280] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.449177 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.449181 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.449184 error 160411 pid[142280] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.449188 error 160411 pid[142280] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.449190 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.449193 error 160411 pid[142280] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.449195 error 160411 pid[142280] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.454259 error 160414 pid[141638] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.454278 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.454283 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.454286 error 160414 pid[141638] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.454290 error 160414 pid[141638] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.454293 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.454295 error 160414 pid[141638] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.454298 error 160414 pid[141638] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.458843 error 160416 pid[141642] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.458866 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.458870 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.458874 error 160416 pid[141642] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.458878 error 160416 pid[141642] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.458880 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.458883 error 160416 pid[141642] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.458886 error 160416 pid[141642] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.461885 error 160410 pid[141646] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.461901 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.461905 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.461908 error 160410 pid[141646] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.461912 error 160410 pid[141646] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.461914 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.461916 error 160410 pid[141646] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.461919 error 160410 pid[141646] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.463572 error 160408 pid[142278] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.463590 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.463594 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.463598 error 160408 pid[142278] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.463602 error 160408 pid[142278] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.463604 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.463606 error 160408 pid[142278] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.463609 error 160408 pid[142278] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.479886 error 160415 pid[141641] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.479901 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.479905 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.479908 error 160415 pid[141641] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.479912 error 160415 pid[141641] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.479914 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.479916 error 160415 pid[141641] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.479919 error 160415 pid[141641] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.482322 error 160413 pid[142282] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.482344 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.482348 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.482352 error 160413 pid[142282] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.482356 error 160413 pid[142282] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.482358 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.482361 error 160413 pid[142282] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.482363 error 160413 pid[142282] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:42.483051 error 160412 pid[142175] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.483069 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.483074 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:42.483077 error 160412 pid[142175] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:42.483081 error 160412 pid[142175] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:42.483083 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:42.483085 error 160412 pid[142175] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:42.483088 error 160412 pid[142175] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602

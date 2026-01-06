@@ -1,0 +1,5 @@
+apt update
+apt install git-lfs
+git lfs install
+git lfs clone https://www.modelscope.cn/deepseek-ai/deepseek-coder-1.3b-base.git
+export PYTHONPATH=/home/j30055934/sglang/python:$PYTHONPATH

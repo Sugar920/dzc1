@@ -1,0 +1,760 @@
+performance
+vm.swappiness = 0
+kernel.numa_balancing = 0
+kernel.sched_migration_cost_ns = 50000
+[Gloo] Rank 0 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 1 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 3 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 2 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 4 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 5 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 6 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 7 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 8 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 9 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 10 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 11 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 12 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 13 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 14 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 15 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 0 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 1 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 2 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 3 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 4 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 5 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 6 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 7 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 8 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 9 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 10 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 11 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 12 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 13 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 14 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 15 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 1 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 0 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 7 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 0 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 2 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 3 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 4 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 5 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 6 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 7 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 1 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 3 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 2 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 4 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 6 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[Gloo] Rank 5 is connected to 7 peer ranks. Expected number of connected peer ranks is : 7
+[2025-12-12 05:26:08] INFO:     192.168.0.102:46340 - "GET /get_model_info HTTP/1.1" 200 OK
+........[2025-12-12 05:26:09] INFO:     192.168.0.102:46356 - "POST /generate HTTP/1.1" 200 OK
+........[2025-12-12 05:26:41] INFO:     192.168.0.60:42472 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:47] INFO:     192.168.0.60:42524 - "POST /generate HTTP/1.1" 200 OK
+........[2025-12-12 05:26:57] INFO:     192.168.0.60:42516 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:58] INFO:     192.168.0.60:42504 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:58] INFO:     192.168.0.60:42488 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:01] INFO:     192.168.0.60:42552 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:02] INFO:     192.168.0.60:42606 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:03] INFO:     192.168.0.60:42578 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:03] INFO:     192.168.0.60:42622 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:03] INFO:     192.168.0.60:42638 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:03] INFO:     192.168.0.60:42630 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:04] INFO:     192.168.0.60:42634 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:04] INFO:     192.168.0.60:42506 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:04] INFO:     192.168.0.60:42618 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:05] INFO:     192.168.0.60:42590 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:05] INFO:     192.168.0.60:42540 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:06] INFO:     192.168.0.60:42566 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:06] INFO:     192.168.0.60:42568 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:10] INFO:     192.168.0.60:42674 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:11] INFO:     192.168.0.60:42764 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:12] INFO:     192.168.0.60:42742 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:12] INFO:     192.168.0.60:42656 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:12] INFO:     192.168.0.60:42698 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:12] INFO:     192.168.0.60:42732 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:12] INFO:     192.168.0.60:42734 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:13] INFO:     192.168.0.60:42758 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:14] INFO:     192.168.0.60:42646 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:14] INFO:     192.168.0.60:42686 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:15] INFO:     192.168.0.60:42762 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:16] INFO:     192.168.0.60:42718 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:17] INFO:     192.168.0.60:42702 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:17] INFO:     192.168.0.60:42642 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:19] INFO:     192.168.0.60:42650 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:20] INFO:     192.168.0.60:42658 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:24] INFO:     192.168.0.60:42828 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:24] INFO:     192.168.0.60:42830 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:25] INFO:     192.168.0.60:42778 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:25] INFO:     192.168.0.60:42816 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:25] INFO:     192.168.0.60:42890 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:25] INFO:     192.168.0.60:42874 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:26] INFO:     192.168.0.60:42804 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:26] INFO:     192.168.0.60:42850 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:26] INFO:     192.168.0.60:42794 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:26] INFO:     192.168.0.60:42766 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:27] INFO:     192.168.0.60:42884 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:28] INFO:     192.168.0.60:42786 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:28] INFO:     192.168.0.60:42780 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:29] INFO:     192.168.0.60:42844 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:32] INFO:     192.168.0.60:42812 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:42862 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:36] INFO:     192.168.0.60:42956 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:37] INFO:     192.168.0.60:42960 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:37] INFO:     192.168.0.60:42940 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:38] INFO:     192.168.0.60:42992 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:38] INFO:     192.168.0.60:43012 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:38] INFO:     192.168.0.60:43006 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:38] INFO:     192.168.0.60:42910 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:38] INFO:     192.168.0.60:60948 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:38] INFO:     192.168.0.60:42894 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:39] INFO:     192.168.0.60:42996 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:39] INFO:     192.168.0.60:42932 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:39] INFO:     192.168.0.60:42964 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:41] INFO:     192.168.0.60:42906 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:42] INFO:     192.168.0.60:42980 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:43] INFO:     192.168.0.60:42926 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:46] INFO:     192.168.0.60:43024 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:49] INFO:     192.168.0.60:38188 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:49] INFO:     192.168.0.60:32768 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:50] INFO:     192.168.0.60:38110 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:51] INFO:     192.168.0.60:38122 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:51] INFO:     192.168.0.60:60980 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:52] INFO:     192.168.0.60:60988 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:52] INFO:     192.168.0.60:60962 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:52] INFO:     192.168.0.60:38136 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:54] INFO:     192.168.0.60:60974 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:54] INFO:     192.168.0.60:38166 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:54] INFO:     192.168.0.60:38108 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:55] INFO:     192.168.0.60:38154 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:55] INFO:     192.168.0.60:38160 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:55] INFO:     192.168.0.60:38138 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:55] INFO:     192.168.0.60:38200 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:03] INFO:     192.168.0.60:38240 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:04] INFO:     192.168.0.60:39100 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:04] INFO:     192.168.0.60:39140 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:04] INFO:     192.168.0.60:38220 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:04] INFO:     192.168.0.60:39086 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:04] INFO:     192.168.0.60:39074 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:05] INFO:     192.168.0.60:39078 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:05] INFO:     192.168.0.60:38218 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:05] INFO:     192.168.0.60:38224 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:05] INFO:     192.168.0.60:38248 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:05] INFO:     192.168.0.60:38174 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:06] INFO:     192.168.0.60:39106 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:06] INFO:     192.168.0.60:39124 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:06] INFO:     192.168.0.60:39114 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:07] INFO:     192.168.0.60:39132 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:07] INFO:     192.168.0.60:38202 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:07] INFO:     192.168.0.60:39068 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:16] INFO:     192.168.0.60:38478 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:17] INFO:     192.168.0.60:38428 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:18] INFO:     192.168.0.60:38464 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:18] INFO:     192.168.0.60:38472 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:18] INFO:     192.168.0.60:50626 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:18] INFO:     192.168.0.60:38420 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:19] INFO:     192.168.0.60:38512 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:19] INFO:     192.168.0.60:38448 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:20] INFO:     192.168.0.60:38452 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:20] INFO:     192.168.0.60:38498 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:20] INFO:     192.168.0.60:38482 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:20] INFO:     192.168.0.60:38490 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:21] INFO:     192.168.0.60:50612 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:21] INFO:     192.168.0.60:38438 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:22] INFO:     192.168.0.60:38458 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:24] INFO:     192.168.0.60:38486 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:28] INFO:     192.168.0.60:50638 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:28] INFO:     192.168.0.60:50668 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:29] INFO:     192.168.0.60:38450 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:29] INFO:     192.168.0.60:38432 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:30] INFO:     192.168.0.60:50696 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:30] INFO:     192.168.0.60:50726 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:31] INFO:     192.168.0.60:50654 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:31] INFO:     192.168.0.60:50682 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:31] INFO:     192.168.0.60:50720 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:32] INFO:     192.168.0.60:50704 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:33] INFO:     192.168.0.60:50734 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:33] INFO:     192.168.0.60:50644 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:35] INFO:     192.168.0.60:38460 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:35] INFO:     192.168.0.60:50708 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:36] INFO:     192.168.0.60:50648 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:37] INFO:     192.168.0.60:38454 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:38] INFO:     192.168.0.60:50690 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:42] INFO:     192.168.0.60:38506 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:42] INFO:     192.168.0.60:38514 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:42] INFO:     192.168.0.60:35746 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:42] INFO:     192.168.0.60:35772 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:42] INFO:     192.168.0.60:38480 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:43] INFO:     192.168.0.60:35782 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:43] INFO:     192.168.0.60:35792 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:43] INFO:     192.168.0.60:38496 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:45] INFO:     192.168.0.60:35794 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:45] INFO:     192.168.0.60:38466 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:46] INFO:     192.168.0.60:35786 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:46] INFO:     192.168.0.60:35760 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:47] INFO:     192.168.0.60:38484 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:48] INFO:     192.168.0.60:33296 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:49] INFO:     192.168.0.60:33290 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:50] INFO:     192.168.0.60:35750 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:56] INFO:     192.168.0.60:33326 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:57] INFO:     192.168.0.60:33430 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:57] INFO:     192.168.0.60:33334 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:57] INFO:     192.168.0.60:33398 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:57] INFO:     192.168.0.60:33310 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:58] INFO:     192.168.0.60:59340 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:59] INFO:     192.168.0.60:33362 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:59] INFO:     192.168.0.60:33422 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:01] INFO:     192.168.0.60:33324 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:02] INFO:     192.168.0.60:33374 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:02] INFO:     192.168.0.60:33350 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:03] INFO:     192.168.0.60:59342 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:03] INFO:     192.168.0.60:33338 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:05] INFO:     192.168.0.60:33408 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:33390 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:09] INFO:     192.168.0.60:33368 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:10] INFO:     192.168.0.60:59410 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:10] INFO:     192.168.0.60:59378 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:11] INFO:     192.168.0.60:59388 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:11] INFO:     192.168.0.60:59416 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:11] INFO:     192.168.0.60:59420 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:11] INFO:     192.168.0.60:59400 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:12] INFO:     192.168.0.60:33036 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:12] INFO:     192.168.0.60:59432 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:12] INFO:     192.168.0.60:59404 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:13] INFO:     192.168.0.60:59364 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:13] INFO:     192.168.0.60:59458 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:14] INFO:     192.168.0.60:59350 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:14] INFO:     192.168.0.60:33028 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:14] INFO:     192.168.0.60:59470 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:15] INFO:     192.168.0.60:59448 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:22] INFO:     192.168.0.60:33068 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:22] INFO:     192.168.0.60:33150 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:22] INFO:     192.168.0.60:33080 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:22] INFO:     192.168.0.60:33090 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:22] INFO:     192.168.0.60:53696 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:22] INFO:     192.168.0.60:53666 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:23] INFO:     192.168.0.60:53698 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:24] INFO:     192.168.0.60:33056 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:53718 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:26] INFO:     192.168.0.60:33104 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:27] INFO:     192.168.0.60:53712 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:27] INFO:     192.168.0.60:53680 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:29] INFO:     192.168.0.60:33048 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:29] INFO:     192.168.0.60:53740 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:29] INFO:     192.168.0.60:33118 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:30] INFO:     192.168.0.60:53730 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:30] INFO:     192.168.0.60:33134 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:30] INFO:     192.168.0.60:53720 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:30] INFO:     192.168.0.60:33158 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:32] INFO:     192.168.0.60:53714 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:33] INFO:     192.168.0.60:54800 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:33] INFO:     192.168.0.60:54802 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:33] INFO:     192.168.0.60:53662 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:31] INFO:     192.168.0.60:41884 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:36] INFO:     192.168.0.60:41888 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:41] INFO:     192.168.0.60:41898 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:47] INFO:     192.168.0.60:41910 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:48] INFO:     192.168.0.60:41902 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:51] INFO:     192.168.0.60:41960 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:51] INFO:     192.168.0.60:41922 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:52] INFO:     192.168.0.60:41990 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:53] INFO:     192.168.0.60:42000 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:53] INFO:     192.168.0.60:41976 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:53] INFO:     192.168.0.60:42008 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:53] INFO:     192.168.0.60:42016 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:54] INFO:     192.168.0.60:41994 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:54] INFO:     192.168.0.60:41986 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:54] INFO:     192.168.0.60:42032 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:55] INFO:     192.168.0.60:41934 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:55] INFO:     192.168.0.60:41950 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:55] INFO:     192.168.0.60:41966 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:56] INFO:     192.168.0.60:42040 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:00] INFO:     192.168.0.60:42158 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:01] INFO:     192.168.0.60:42092 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:02] INFO:     192.168.0.60:42072 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:02] INFO:     192.168.0.60:42148 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:02] INFO:     192.168.0.60:42136 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:02] INFO:     192.168.0.60:42112 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:03] INFO:     192.168.0.60:42144 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:04] INFO:     192.168.0.60:42150 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:04] INFO:     192.168.0.60:42042 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:05] INFO:     192.168.0.60:42086 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:06] INFO:     192.168.0.60:42062 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:06] INFO:     192.168.0.60:42124 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:07] INFO:     192.168.0.60:42172 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:07] INFO:     192.168.0.60:42102 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:08] INFO:     192.168.0.60:42178 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:10] INFO:     192.168.0.60:42058 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:14] INFO:     192.168.0.60:42260 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:14] INFO:     192.168.0.60:42192 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:15] INFO:     192.168.0.60:42274 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:16] INFO:     192.168.0.60:42296 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:16] INFO:     192.168.0.60:42268 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:16] INFO:     192.168.0.60:42288 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:16] INFO:     192.168.0.60:42214 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:16] INFO:     192.168.0.60:42212 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:17] INFO:     192.168.0.60:42326 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:17] INFO:     192.168.0.60:42196 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:17] INFO:     192.168.0.60:42282 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:18] INFO:     192.168.0.60:42314 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:18] INFO:     192.168.0.60:42300 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:18] INFO:     192.168.0.60:42230 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:23] INFO:     192.168.0.60:42246 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:25] INFO:     192.168.0.60:42294 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:27] INFO:     192.168.0.60:42402 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:28] INFO:     192.168.0.60:45754 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:29] INFO:     192.168.0.60:42354 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:29] INFO:     192.168.0.60:42440 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:29] INFO:     192.168.0.60:42374 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:29] INFO:     192.168.0.60:42366 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:29] INFO:     192.168.0.60:42438 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:30] INFO:     192.168.0.60:45758 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:30] INFO:     192.168.0.60:42412 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:30] INFO:     192.168.0.60:42444 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:30] INFO:     192.168.0.60:42390 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:31] INFO:     192.168.0.60:42422 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:32] INFO:     192.168.0.60:42332 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:33] INFO:     192.168.0.60:42450 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:33] INFO:     192.168.0.60:45770 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:34] INFO:     192.168.0.60:42344 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:34] INFO:     192.168.0.60:42420 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:53472 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:45798 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:53414 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:41] INFO:     192.168.0.60:45784 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:42] INFO:     192.168.0.60:53418 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:42] INFO:     192.168.0.60:45782 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:43] INFO:     192.168.0.60:53432 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:44] INFO:     192.168.0.60:45802 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:44] INFO:     192.168.0.60:53486 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:44] INFO:     192.168.0.60:53444 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:44] INFO:     192.168.0.60:53460 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:46] INFO:     192.168.0.60:53436 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:47] INFO:     192.168.0.60:53474 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:47] INFO:     192.168.0.60:53480 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:50] INFO:     192.168.0.60:53464 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:51] INFO:     192.168.0.60:53448 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:53492 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:53508 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:55] INFO:     192.168.0.60:53470 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:55] INFO:     192.168.0.60:53466 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:55] INFO:     192.168.0.60:53450 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:56] INFO:     192.168.0.60:53504 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:56] INFO:     192.168.0.60:53520 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:56] INFO:     192.168.0.60:53530 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:56] INFO:     192.168.0.60:53506 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:56] INFO:     192.168.0.60:53478 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:56] INFO:     192.168.0.60:53462 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:57] INFO:     192.168.0.60:54678 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:57] INFO:     192.168.0.60:53494 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:58] INFO:     192.168.0.60:53518 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:59] INFO:     192.168.0.60:53536 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:03] INFO:     192.168.0.60:53534 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:41858 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:54726 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:09] INFO:     192.168.0.60:54704 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:09] INFO:     192.168.0.60:54712 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:09] INFO:     192.168.0.60:41838 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:10] INFO:     192.168.0.60:54746 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:10] INFO:     192.168.0.60:54700 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:10] INFO:     192.168.0.60:54756 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:11] INFO:     192.168.0.60:54696 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:11] INFO:     192.168.0.60:41848 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:11] INFO:     192.168.0.60:54736 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:12] INFO:     192.168.0.60:54688 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:14] INFO:     192.168.0.60:41872 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:14] INFO:     192.168.0.60:54694 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:15] INFO:     192.168.0.60:54740 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:16] INFO:     192.168.0.60:41856 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:41904 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:20] INFO:     192.168.0.60:34144 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:20] INFO:     192.168.0.60:34138 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:21] INFO:     192.168.0.60:41936 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:22] INFO:     192.168.0.60:41888 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:22] INFO:     192.168.0.60:41916 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:23] INFO:     192.168.0.60:34154 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:23] INFO:     192.168.0.60:41958 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:23] INFO:     192.168.0.60:34172 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:23] INFO:     192.168.0.60:41962 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:24] INFO:     192.168.0.60:41940 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:26] INFO:     192.168.0.60:41948 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:27] INFO:     192.168.0.60:34184 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:27] INFO:     192.168.0.60:34158 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:27] INFO:     192.168.0.60:41886 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:29] INFO:     192.168.0.60:41930 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:33] INFO:     192.168.0.60:34234 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:33] INFO:     192.168.0.60:34248 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:33] INFO:     192.168.0.60:34196 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:34] INFO:     192.168.0.60:48764 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:34] INFO:     192.168.0.60:48778 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:34] INFO:     192.168.0.60:48806 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:34] INFO:     192.168.0.60:34218 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:35] INFO:     192.168.0.60:48832 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:36] INFO:     192.168.0.60:48788 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:36] INFO:     192.168.0.60:34252 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:36] INFO:     192.168.0.60:48804 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:37] INFO:     192.168.0.60:48762 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:38] INFO:     192.168.0.60:34208 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:40] INFO:     192.168.0.60:44230 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:43] INFO:     192.168.0.60:48760 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:44] INFO:     192.168.0.60:48818 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:47] INFO:     192.168.0.60:44232 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:47] INFO:     192.168.0.60:56388 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:47] INFO:     192.168.0.60:56378 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:48] INFO:     192.168.0.60:44240 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:48] INFO:     192.168.0.60:44290 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:48] INFO:     192.168.0.60:48848 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:49] INFO:     192.168.0.60:44302 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:50] INFO:     192.168.0.60:44262 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:53] INFO:     192.168.0.60:44256 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:54] INFO:     192.168.0.60:56400 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:54] INFO:     192.168.0.60:44272 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:54] INFO:     192.168.0.60:56412 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:56] INFO:     192.168.0.60:44254 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:57] INFO:     192.168.0.60:44294 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:57] INFO:     192.168.0.60:44286 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:58] INFO:     192.168.0.60:44274 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:00] INFO:     192.168.0.60:56458 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:01] INFO:     192.168.0.60:56424 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:01] INFO:     192.168.0.60:56426 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:02] INFO:     192.168.0.60:56470 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:02] INFO:     192.168.0.60:56484 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:02] INFO:     192.168.0.60:56442 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:02] INFO:     192.168.0.60:56486 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:03] INFO:     192.168.0.60:56456 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:03] INFO:     192.168.0.60:56504 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:03] INFO:     192.168.0.60:36304 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:04] INFO:     192.168.0.60:56414 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:04] INFO:     192.168.0.60:36322 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:04] INFO:     192.168.0.60:36298 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:05] INFO:     192.168.0.60:36292 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:06] INFO:     192.168.0.60:56496 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:60262 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:36328 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:36352 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:36344 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:13] INFO:     192.168.0.60:60314 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:13] INFO:     192.168.0.60:60290 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:14] INFO:     192.168.0.60:60320 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:60334 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:17] INFO:     192.168.0.60:36366 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:18] INFO:     192.168.0.60:60298 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:19] INFO:     192.168.0.60:60274 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:20] INFO:     192.168.0.60:37476 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:20] INFO:     192.168.0.60:36312 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:20] INFO:     192.168.0.60:37478 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:20] INFO:     192.168.0.60:60328 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:21] INFO:     192.168.0.60:36378 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:21] INFO:     192.168.0.60:37464 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:21] INFO:     192.168.0.60:60330 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:21] INFO:     192.168.0.60:36380 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:23] INFO:     192.168.0.60:37492 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:23] INFO:     192.168.0.60:60282 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:27] INFO:     192.168.0.60:37496 - "POST /generate HTTP/1.1" 200 OK
+2025-12-12 05:34:36.396724 error 178543 pid[159752] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.396748 error 178543 pid[159752] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.396752 error 178543 pid[159752] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.396756 error 178543 pid[159752] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.396760 error 178543 pid[159752] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.396762 error 178543 pid[159752] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.396764 error 178543 pid[159752] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.396767 error 178543 pid[159752] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.397475 error 178542 pid[159751] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.397507 error 178542 pid[159751] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.397513 error 178542 pid[159751] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.397517 error 178542 pid[159751] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.397522 error 178542 pid[159751] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.397524 error 178542 pid[159751] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.397527 error 178542 pid[159751] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.397530 error 178542 pid[159751] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.406091 error 178545 pid[159753] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.406110 error 178545 pid[159753] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.406114 error 178545 pid[159753] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.406117 error 178545 pid[159753] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.406121 error 178545 pid[159753] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.406124 error 178545 pid[159753] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.406127 error 178545 pid[159753] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.406129 error 178545 pid[159753] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.410713 error 178544 pid[160141] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.410734 error 178544 pid[160141] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.410738 error 178544 pid[160141] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.410742 error 178544 pid[160141] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.410746 error 178544 pid[160141] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.410748 error 178544 pid[160141] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.410750 error 178544 pid[160141] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.410753 error 178544 pid[160141] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.413061 error 178547 pid[159748] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.413083 error 178547 pid[159748] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.413087 error 178547 pid[159748] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.413090 error 178547 pid[159748] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.413094 error 178547 pid[159748] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.413096 error 178547 pid[159748] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.413099 error 178547 pid[159748] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.413102 error 178547 pid[159748] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.413362 error 178546 pid[159749] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.413377 error 178546 pid[159749] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.413381 error 178546 pid[159749] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.413384 error 178546 pid[159749] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.413388 error 178546 pid[159749] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.413390 error 178546 pid[159749] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.413393 error 178546 pid[159749] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.413396 error 178546 pid[159749] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.417755 error 178548 pid[160138] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.417776 error 178548 pid[160138] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.417781 error 178548 pid[160138] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.417784 error 178548 pid[160138] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.417788 error 178548 pid[160138] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.417791 error 178548 pid[160138] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.417793 error 178548 pid[160138] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.417796 error 178548 pid[160138] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.428231 error 178549 pid[160132] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.428258 error 178549 pid[160132] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.428262 error 178549 pid[160132] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.428265 error 178549 pid[160132] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.428270 error 178549 pid[160132] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.428272 error 178549 pid[160132] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.428274 error 178549 pid[160132] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.428278 error 178549 pid[160132] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.428410 error 178550 pid[160140] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.428429 error 178550 pid[160140] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.428434 error 178550 pid[160140] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.428437 error 178550 pid[160140] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.428441 error 178550 pid[160140] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.428443 error 178550 pid[160140] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.428445 error 178550 pid[160140] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.428448 error 178550 pid[160140] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.430298 error 178551 pid[160133] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.430318 error 178551 pid[160133] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.430322 error 178551 pid[160133] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.430326 error 178551 pid[160133] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.430330 error 178551 pid[160133] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.430333 error 178551 pid[160133] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.430337 error 178551 pid[160133] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.430340 error 178551 pid[160133] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.433493 error 178554 pid[160139] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.433512 error 178554 pid[160139] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.433516 error 178554 pid[160139] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.433519 error 178554 pid[160139] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.433523 error 178554 pid[160139] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.433526 error 178554 pid[160139] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.433528 error 178554 pid[160139] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.433531 error 178554 pid[160139] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.435016 error 178556 pid[160136] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.435040 error 178556 pid[160136] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.435046 error 178556 pid[160136] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.435049 error 178556 pid[160136] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.435054 error 178556 pid[160136] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.435056 error 178556 pid[160136] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.435058 error 178556 pid[160136] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.435062 error 178556 pid[160136] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.446133 error 178555 pid[159750] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.446156 error 178555 pid[159750] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.446161 error 178555 pid[159750] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.446164 error 178555 pid[159750] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.446168 error 178555 pid[159750] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.446171 error 178555 pid[159750] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.446173 error 178555 pid[159750] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.446176 error 178555 pid[159750] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.446202 error 178557 pid[160137] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.446223 error 178557 pid[160137] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.446228 error 178557 pid[160137] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.446232 error 178557 pid[160137] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.446235 error 178557 pid[160137] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.446238 error 178557 pid[160137] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.446240 error 178557 pid[160137] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.446243 error 178557 pid[160137] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.447746 error 178553 pid[160135] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.447770 error 178553 pid[160135] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.447776 error 178553 pid[160135] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.447780 error 178553 pid[160135] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.447784 error 178553 pid[160135] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.447786 error 178553 pid[160135] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.447788 error 178553 pid[160135] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.447792 error 178553 pid[160135] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:36.448460 error 178552 pid[160134] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.448475 error 178552 pid[160134] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.448478 error 178552 pid[160134] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:36.448481 error 178552 pid[160134] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:36.448485 error 178552 pid[160134] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:36.448488 error 178552 pid[160134] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:36.448490 error 178552 pid[160134] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:36.448493 error 178552 pid[160134] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.396845 error 178543 pid[159752] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.396865 error 178543 pid[159752] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.396870 error 178543 pid[159752] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.396873 error 178543 pid[159752] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.396877 error 178543 pid[159752] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.396880 error 178543 pid[159752] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.396882 error 178543 pid[159752] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.396885 error 178543 pid[159752] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.397606 error 178542 pid[159751] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.397630 error 178542 pid[159751] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.397634 error 178542 pid[159751] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.397638 error 178542 pid[159751] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.397643 error 178542 pid[159751] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.397645 error 178542 pid[159751] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.397648 error 178542 pid[159751] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.397651 error 178542 pid[159751] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.406199 error 178545 pid[159753] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.406217 error 178545 pid[159753] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.406221 error 178545 pid[159753] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.406224 error 178545 pid[159753] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.406228 error 178545 pid[159753] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.406230 error 178545 pid[159753] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.406232 error 178545 pid[159753] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.406235 error 178545 pid[159753] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.410833 error 178544 pid[160141] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.410852 error 178544 pid[160141] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.410857 error 178544 pid[160141] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.410860 error 178544 pid[160141] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.410864 error 178544 pid[160141] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.410867 error 178544 pid[160141] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.410869 error 178544 pid[160141] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.410872 error 178544 pid[160141] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.413174 error 178547 pid[159748] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.413193 error 178547 pid[159748] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.413197 error 178547 pid[159748] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.413200 error 178547 pid[159748] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.413204 error 178547 pid[159748] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.413207 error 178547 pid[159748] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.413209 error 178547 pid[159748] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.413212 error 178547 pid[159748] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.413464 error 178546 pid[159749] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.413477 error 178546 pid[159749] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.413481 error 178546 pid[159749] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.413483 error 178546 pid[159749] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.413487 error 178546 pid[159749] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.413489 error 178546 pid[159749] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.413492 error 178546 pid[159749] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.413495 error 178546 pid[159749] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.417876 error 178548 pid[160138] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.417897 error 178548 pid[160138] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.417901 error 178548 pid[160138] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.417905 error 178548 pid[160138] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.417909 error 178548 pid[160138] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.417911 error 178548 pid[160138] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.417914 error 178548 pid[160138] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.417916 error 178548 pid[160138] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.428355 error 178549 pid[160132] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.428378 error 178549 pid[160132] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.428381 error 178549 pid[160132] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.428385 error 178549 pid[160132] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.428389 error 178549 pid[160132] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.428392 error 178549 pid[160132] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.428394 error 178549 pid[160132] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.428397 error 178549 pid[160132] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.428517 error 178550 pid[160140] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.428534 error 178550 pid[160140] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.428538 error 178550 pid[160140] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.428542 error 178550 pid[160140] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.428545 error 178550 pid[160140] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.428548 error 178550 pid[160140] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.428550 error 178550 pid[160140] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.428552 error 178550 pid[160140] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.430409 error 178551 pid[160133] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.430426 error 178551 pid[160133] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.430430 error 178551 pid[160133] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.430433 error 178551 pid[160133] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.430438 error 178551 pid[160133] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.430441 error 178551 pid[160133] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.430444 error 178551 pid[160133] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.430447 error 178551 pid[160133] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.433604 error 178554 pid[160139] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.433622 error 178554 pid[160139] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.433627 error 178554 pid[160139] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.433630 error 178554 pid[160139] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.433634 error 178554 pid[160139] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.433637 error 178554 pid[160139] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.433639 error 178554 pid[160139] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.433642 error 178554 pid[160139] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.435131 error 178556 pid[160136] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.435150 error 178556 pid[160136] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.435154 error 178556 pid[160136] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.435157 error 178556 pid[160136] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.435161 error 178556 pid[160136] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.435163 error 178556 pid[160136] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.435165 error 178556 pid[160136] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.435168 error 178556 pid[160136] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.446247 error 178555 pid[159750] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.446265 error 178555 pid[159750] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.446270 error 178555 pid[159750] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.446273 error 178555 pid[159750] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.446276 error 178555 pid[159750] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.446279 error 178555 pid[159750] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.446281 error 178555 pid[159750] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.446284 error 178555 pid[159750] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.446310 error 178557 pid[160137] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.446321 error 178557 pid[160137] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.446325 error 178557 pid[160137] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.446328 error 178557 pid[160137] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.446332 error 178557 pid[160137] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.446335 error 178557 pid[160137] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.446337 error 178557 pid[160137] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.446341 error 178557 pid[160137] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.447866 error 178553 pid[160135] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.447887 error 178553 pid[160135] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.447893 error 178553 pid[160135] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.447896 error 178553 pid[160135] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.447900 error 178553 pid[160135] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.447903 error 178553 pid[160135] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.447905 error 178553 pid[160135] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.447908 error 178553 pid[160135] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602
+2025-12-12 05:34:39.448564 error 178552 pid[160134] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.448577 error 178552 pid[160134] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.448580 error 178552 pid[160134] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/count_for_senders, get null response
+2025-12-12 05:34:39.448583 error 178552 pid[160134] [SMEM smem_trans_store_helper.cpp:181] store add(0) for key(count_for_senders) count failed: -602
+2025-12-12 05:34:39.448587 error 178552 pid[160134] [AccLink acc_tcp_link_complex_default.h:504] Failed to send message with message type 0 as the link is broken
+2025-12-12 05:34:39.448589 error 178552 pid[160134] [SMEM smem_tcp_config_store.cpp:495] send message failed, result: -11
+2025-12-12 05:34:39.448592 error 178552 pid[160134] [SMEM smem_tcp_config_store.cpp:312] send add for key: /trans/129/senders_total_slices_count, get null response
+2025-12-12 05:34:39.448594 error 178552 pid[160134] [SMEM smem_trans_store_helper.cpp:220] store add(0) for key(senders_total_slices_count) total count failed: -602

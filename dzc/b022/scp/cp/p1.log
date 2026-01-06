@@ -1,0 +1,506 @@
+performance
+vm.swappiness = 0
+kernel.numa_balancing = 0
+kernel.sched_migration_cost_ns = 50000
+[Gloo] Rank 7 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 8 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 9 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 10 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 11 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 6 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 1 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 2 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 0 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 3 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 4 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 5 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 12 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 13 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 14 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 15 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 0 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 1 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 2 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 3 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 4 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 5 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 6 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 7 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 8 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 9 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 10 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 11 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 12 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 13 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 14 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 15 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 1 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 2 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 3 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 4 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 5 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 6 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 7 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 8 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 9 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 10 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 11 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 12 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 13 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 14 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 15 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[Gloo] Rank 0 is connected to 31 peer ranks. Expected number of connected peer ranks is : 31
+[2025-12-12 05:14:51] INFO:     192.168.0.60:50922 - "GET /get_model_info HTTP/1.1" 200 OK
+................[2025-12-12 05:15:02] INFO:     192.168.0.60:50926 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:39] INFO:     192.168.0.60:43574 - "GET /get_model_info HTTP/1.1" 200 OK
+[2025-12-12 05:26:40] INFO:     192.168.0.60:43590 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:54] INFO:     192.168.0.60:43626 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43596 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43612 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43622 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43620 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43638 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43648 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43652 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43664 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43666 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43676 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43682 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43688 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43700 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43704 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:26:55] INFO:     192.168.0.60:43714 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:07] INFO:     192.168.0.60:43728 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43734 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43742 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43752 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43756 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43758 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43764 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43766 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43776 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43788 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43794 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43798 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43806 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43822 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43834 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:08] INFO:     192.168.0.60:43842 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:20] INFO:     192.168.0.60:43852 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43858 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43864 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43880 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43894 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43896 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43902 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43916 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43920 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43934 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43940 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43944 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43948 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43964 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43974 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:21] INFO:     192.168.0.60:43984 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:33] INFO:     192.168.0.60:43996 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44010 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44014 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44018 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44028 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44042 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44056 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44070 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44072 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44084 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44100 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44112 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44114 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44124 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44138 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:34] INFO:     192.168.0.60:44152 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:46] INFO:     192.168.0.60:47608 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:47622 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:47626 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:47628 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:47638 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:47646 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56798 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56812 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56820 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56826 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56842 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56844 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56858 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56860 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56866 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:47] INFO:     192.168.0.60:56878 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:27:59] INFO:     192.168.0.60:56880 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:56896 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:56908 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:56920 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:56926 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:56928 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:56940 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57348 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57364 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57380 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57386 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57392 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57406 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57414 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57424 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:00] INFO:     192.168.0.60:57432 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:12] INFO:     192.168.0.60:57440 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55008 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55020 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55034 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55050 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55058 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55074 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55082 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55094 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55096 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55108 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55112 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55122 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55130 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:55144 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:13] INFO:     192.168.0.60:33540 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:26] INFO:     192.168.0.60:33556 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:26] INFO:     192.168.0.60:33562 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33572 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33580 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33590 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33606 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33622 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33636 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33646 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33648 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33658 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33674 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33684 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:33700 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:55124 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:27] INFO:     192.168.0.60:55132 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:39] INFO:     192.168.0.60:55134 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:39] INFO:     192.168.0.60:55146 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:55154 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:55166 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:55170 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:55184 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:55194 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:55208 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:52232 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:52236 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:52250 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:52254 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:52266 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:52282 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:52296 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:41] INFO:     192.168.0.60:52300 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:52] INFO:     192.168.0.60:47702 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:52] INFO:     192.168.0.60:47714 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47722 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47736 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47738 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47754 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47760 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47776 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47790 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47802 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47818 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47822 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47836 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47850 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47854 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:28:54] INFO:     192.168.0.60:47866 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:05] INFO:     192.168.0.60:47184 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:05] INFO:     192.168.0.60:47200 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47206 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47222 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47228 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47236 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47240 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47250 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47254 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47262 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47270 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47274 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47286 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47288 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:47298 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:07] INFO:     192.168.0.60:54186 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:19] INFO:     192.168.0.60:54194 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:19] INFO:     192.168.0.60:54210 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:19] INFO:     192.168.0.60:54212 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:54228 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:54234 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:54244 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:54258 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:54268 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:54280 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:54282 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:44608 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:44614 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:44620 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:44632 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:44642 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:21] INFO:     192.168.0.60:44658 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:54294 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:44666 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:44676 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:44680 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:44686 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:44698 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:46580 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:29:25] INFO:     192.168.0.60:46572 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:30] INFO:     192.168.0.60:46430 - "GET /get_model_info HTTP/1.1" 200 OK
+[2025-12-12 05:30:31] INFO:     192.168.0.60:46440 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:44] INFO:     192.168.0.60:46444 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:44] INFO:     192.168.0.60:46446 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46462 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46474 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46486 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46488 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46498 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46506 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46520 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46532 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46548 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46552 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46556 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46558 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46562 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:46] INFO:     192.168.0.60:46572 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:57] INFO:     192.168.0.60:46580 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:57] INFO:     192.168.0.60:46596 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46612 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46624 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46638 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46642 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46654 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46666 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46678 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46680 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46690 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46704 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46718 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46734 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46740 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:30:59] INFO:     192.168.0.60:46748 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:11] INFO:     192.168.0.60:46752 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:11] INFO:     192.168.0.60:46764 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46768 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46770 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46774 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46778 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46788 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46804 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46820 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46834 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46838 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46842 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46856 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46862 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46872 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:12] INFO:     192.168.0.60:46876 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:24] INFO:     192.168.0.60:46884 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:24] INFO:     192.168.0.60:46896 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:24] INFO:     192.168.0.60:46900 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46908 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46910 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46912 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46922 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46936 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46950 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46968 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46986 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:47000 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:47014 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:47026 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46062 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:26] INFO:     192.168.0.60:46064 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:37] INFO:     192.168.0.60:46966 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:37] INFO:     192.168.0.60:46984 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:37] INFO:     192.168.0.60:46068 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:46084 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:46094 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:46106 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:46108 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42688 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42704 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42720 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42734 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42748 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42756 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42758 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42774 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:40] INFO:     192.168.0.60:42780 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:50] INFO:     192.168.0.60:42782 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:50] INFO:     192.168.0.60:42788 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:50] INFO:     192.168.0.60:42794 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:42808 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:42814 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:42818 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:42826 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:42828 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:45130 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:45132 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:45134 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:45140 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:45142 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:45144 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:45146 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:31:53] INFO:     192.168.0.60:45156 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:03] INFO:     192.168.0.60:45166 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:03] INFO:     192.168.0.60:45180 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:03] INFO:     192.168.0.60:33552 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33556 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33572 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33582 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33592 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33606 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33616 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33622 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33636 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33640 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33652 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:33658 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:49066 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:06] INFO:     192.168.0.60:49102 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:16] INFO:     192.168.0.60:49080 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:16] INFO:     192.168.0.60:49094 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:16] INFO:     192.168.0.60:49112 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49120 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49122 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49136 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49150 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49158 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49162 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49166 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49168 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:49182 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:44372 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:44388 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:44422 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:19] INFO:     192.168.0.60:44428 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:30] INFO:     192.168.0.60:49196 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:30] INFO:     192.168.0.60:44394 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:30] INFO:     192.168.0.60:44406 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44438 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44448 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44450 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44458 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44466 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44442 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44452 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44462 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44468 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44480 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44476 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:44492 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:32] INFO:     192.168.0.60:48918 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:43] INFO:     192.168.0.60:44474 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:43] INFO:     192.168.0.60:44430 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:43] INFO:     192.168.0.60:44486 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:44494 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:48926 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:48934 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:48948 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:48962 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:48970 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:48978 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:48984 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:48998 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:49008 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:49010 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:41618 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:46] INFO:     192.168.0.60:41624 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:56] INFO:     192.168.0.60:48980 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:56] INFO:     192.168.0.60:41628 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:56] INFO:     192.168.0.60:41640 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41650 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41658 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41662 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41674 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41682 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41688 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41692 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41698 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41704 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41716 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:41724 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:45564 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:32:59] INFO:     192.168.0.60:45580 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:09] INFO:     192.168.0.60:45592 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:09] INFO:     192.168.0.60:45608 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:09] INFO:     192.168.0.60:45614 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:45616 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:45620 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:45622 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:45628 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:45642 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:45650 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:50228 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:50234 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:50250 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:50262 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:50268 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:50276 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:12] INFO:     192.168.0.60:50278 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:50290 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:50306 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:50318 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:41048 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:41050 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:41056 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:41062 - "POST /generate HTTP/1.1" 200 OK
+[2025-12-12 05:33:16] INFO:     192.168.0.60:41066 - "POST /generate HTTP/1.1" 200 OK

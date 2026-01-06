@@ -1,0 +1,4 @@
+wget https://sglang-ascend.obs.cn-east-3.myhuaweicloud.com/sglang-npu-nn-B022.tar.gz?AccessKeyId=HPUAXT4YM0U8JNTERLST&Expires=1765704301&Signature=nZQn213WNINfudgoQ8V8KyITyC8%3D
+export PYTHONPATH=/data/dzc/b022/mix/sglang/python:$PYTHONPATH
+
+python3 /data/dzc/b020/sglang-project/test/srt/ascend/test_ascend_enable_mixed_chunk2.py | tee mix.log

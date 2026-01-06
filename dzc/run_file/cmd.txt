@@ -1,0 +1,6 @@
+#export PYTHONPATH=/home/dzc/sglang/python:$PYTHONPATH
+export PYTHONPATH=/data/dzc/code/upstream1203/sglang/python:$PYTHONPATH
+
+export HF_ENDPOINT=https://hf-mirror.com
+
+hf download lmms-lab/MMMU --repo-type dataset
